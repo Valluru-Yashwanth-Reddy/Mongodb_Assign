@@ -1,5 +1,5 @@
 # Mongodb_Assign
-
+```js
 
 C:\Users\Minfy>mongosh "mongodb+srv://cluster0.yoxllv9.mongodb.net/" --apiVersion 1 --username valluruyashwanthreddy
 Enter password: ****************
@@ -669,5 +669,6 @@ Atlas atlas-dnt69f-shard-0 [primary] test> db.todo.find({Updated_at:{$gt: new Da
     status: true,
     Updated_at: ISODate('2025-05-29T04:29:37.079Z')
   }
+```
 ]
 Atlas atlas-dnt69f-shard-0 [primary] test>
